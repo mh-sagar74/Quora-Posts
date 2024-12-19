@@ -1,0 +1,51 @@
+*{
+    font-family: Andale Mono, monospace;
+}
+
+h1{
+    color: maroon;
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+.user{
+   font-style: italic;
+}
+
+.btn{
+    border: 1px solid #04AA6D;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.btn:hover{
+    background-color: #04AA6D;
+    color: white;
+    transition-duration: 0.4s;
+}
+
+#deleteBtn{
+    border: 1px solid #f44336;
+}
+
+#deleteBtn:hover{
+    background-color: #f44336;
+    color: white;
+    transition-duration: 0.4s;
+}
+
+.child{
+    display: inline;
+}
+
+#createBtn{
+    border: 1px solid #008CBA;
+}
+
+#createBtn:hover{
+    background-color: #008CBA;
+    color: white;
+    transition-duration: 0.4s;
+}
